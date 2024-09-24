@@ -1,6 +1,6 @@
-**Bem vindo ao meu perfil**
+**Bem vindo ao meu perfil**💙
 
--Me chamo Rafaelly
+-Meu nome é Rafaelly
 
 -Esto estudando no alura
 
