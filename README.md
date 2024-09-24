@@ -2,7 +2,7 @@
 
 -Meu nome é Rafaelly
 
--Esto estudando no alura
+-Esto estudando no [alura](https://www.alura..com.br)
 
 **Entrar em contato:**
 
