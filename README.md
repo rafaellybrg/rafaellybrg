@@ -4,7 +4,7 @@
 
 -Esto estudando no alura
 
-**Entrar em contato:
+**Entrar em contato:**
 
 📫rafaelly.saldanha@escola.pr.gov.br
 
