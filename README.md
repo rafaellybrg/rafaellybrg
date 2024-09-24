@@ -1,16 +1,14 @@
-## Hi there 👋
+**Bem vindo ao meu perfil**
 
-<!--
-**rafaellybrg/rafaellybrg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-Me chamo Rafaelly
 
-Here are some ideas to get you started:
+-Esto estudando no alura
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Entrar em contato:
+
+📫rafaelly.saldanha@escola.pr.gov.br
+
+@ellybrg_
+
+
+![](https://media.tenor.com/gZU3n_9Nv2EAAAAM/cat-cat-stare.gif)
